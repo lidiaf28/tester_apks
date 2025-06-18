@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: 74ba26ba4d1ac1549b2f3c0d551535d1
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ash_Pile
+    second: {fileID: 2100000, guid: f3caeb59d7922e44fbfb2fb24c1ac54d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butterfly
+    second: {fileID: 2100000, guid: 50cc59968dc9f6b4f87733d46a75ab39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Charcoal_Brick
+    second: {fileID: 2100000, guid: e527fbc1a4f30fb4c888c12f938e8285, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Charcoal_Brick_HOT
+    second: {fileID: 2100000, guid: 94ed8bd4b01d2a64093bb6b2aff3e2bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dandelion
+    second: {fileID: 2100000, guid: 5a7214ec16bc2334f81a5478ffae8022, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dry_Grass
+    second: {fileID: 2100000, guid: b34a1da1c6ba155478aaed6defd46397, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Area
+    second: {fileID: 2100000, guid: c47808de069eaa442b564f0014344791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hot_Dog
+    second: {fileID: 2100000, guid: aee3377e4bce82b43be1f993e2781387, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kerosene
+    second: {fileID: 2100000, guid: 04f0fbf540ca3ca438759fbd245e6c23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Main_Metals
+    second: {fileID: 2100000, guid: 10f552ff698840e4bb7cac4da0a7a126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Old_Post
+    second: {fileID: 2100000, guid: 9354c9c6f49f8ad4a9dbd539e88a5f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic_Red_Part
+    second: {fileID: 2100000, guid: b5d20597427d10c4ba6ca9c16dc2f363, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sidewalk
+    second: {fileID: 2100000, guid: 6d62abaf987575b4fb5b7627fc9539a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smoke_Texture_Map
+    second: {fileID: 2100000, guid: bd0406afa2c9ab34e89d21aba9db3f60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Spray_Paint_3
+    second: {fileID: 2100000, guid: 4bf2bca65bf1cea4594b2653a93e8aba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: d6bd2cf6e0cfd3843aba3ee4b121704b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ 3
+    second: {fileID: 2800000, guid: cbf0a11d42a979049b959b7d42e02a88, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Ash
+    second: {fileID: 2800000, guid: 04b9e0ce464b44a469e21011d7613e46, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Ash NM
+    second: {fileID: 2800000, guid: c043226511c498d47813fbe7296e8a62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Briquette
+    second: {fileID: 2800000, guid: 918d17b47209ec14d96da1f25d1d82db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Briquette EM
+    second: {fileID: 2800000, guid: ef052a1c50b58f849a81da5eb31724b8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Dandelion
+    second: {fileID: 2800000, guid: 18427016265372b4484985d98f1e55c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Grass
+    second: {fileID: 2800000, guid: 76919414b62ff0b4da6950cd322d4a85, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Hotdog
+    second: {fileID: 2800000, guid: ed8f55ea2ec869a42b6c1a7213275089, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Kerosene
+    second: {fileID: 2800000, guid: 2a033dd12643ddd4e809b047d479354c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Main
+    second: {fileID: 2800000, guid: 4748313b573a42a4fab857d9418bb01a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Main NM
+    second: {fileID: 2800000, guid: 45a7ac19a4a64db4ebeafcd6f842b0ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Monarch
+    second: {fileID: 2800000, guid: d8e6fbc30c1ba7442948f0fdbe613461, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Post
+    second: {fileID: 2800000, guid: e2efaae95c442be45b0f451fccfe24e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Post NM
+    second: {fileID: 2800000, guid: 1f32a91e1352dbb4e9d7d0af38b2a794, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Red Plastic
+    second: {fileID: 2800000, guid: 6aa1ffac502f8474699c981d64968cdd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Sidewalk
+    second: {fileID: 2800000, guid: 35c07a6bc2d1faa459b2481444f53b81, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Terrain
+    second: {fileID: 2800000, guid: 35a775d6cc1bbfc41bd68b59273ac5cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: BBQ Terrain NM
+    second: {fileID: 2800000, guid: 0f192037635fbcc4ab2bcfa4c13ae762, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Smoke Texture
+    second: {fileID: 2800000, guid: ee9732ba0c30eb547aa52dd95cc4673d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Smoke Texture EM
+    second: {fileID: 2800000, guid: 732372b37f664ad449718e26464d2741, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
