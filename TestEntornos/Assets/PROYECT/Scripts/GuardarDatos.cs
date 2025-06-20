@@ -20,11 +20,11 @@ public class GuardarDatos : MonoBehaviour
         int valorSlider = Mathf.RoundToInt(slider.value);
         string n_catador = dropdown.options[dropdown.value].text;
 
-        string datos = $"Número de catador: {n_catador};Intensidad de salado: {valorSlider} ";
-
+        string datos = $"Numero de catador;Intensidad de salado \n {n_catador};{valorSlider}"; //opcion csv
+        //string datos = $"Número de catador: {n_catador}, Intensidad de salado: {valorSlider}"; //opcion txt
         // Generar nombre de archivo con timestamp
         string timestamp = DateTime.Now.ToString("yyyyMMdd_HHmmss");
-        string nombreArchivo = $"respuesta_usuario_{timestamp}.txt";
+        string nombreArchivo = $"respuesta_usuario_{timestamp}.csv"; //cambiar extension segun opcion seleccionada
         string ruta = Path.Combine(Application.persistentDataPath, nombreArchivo);
 
         File.WriteAllText(ruta, datos);
